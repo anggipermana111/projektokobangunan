@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="JasperReports">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/jaxen-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/batik-xml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/png-encoder-1.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/batik-anim.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/batik-gvt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/batik-svg-dom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/xalan.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/batik-bridge.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/jcommon-1.0.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/batik-script.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/batik-parser.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/castor-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/batik-awt-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/batik-dom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/jfreechart-1.0.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/batik-util.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/jpa.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/barbecue-1.5-beta1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/xml-apis-ext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/batik-ext.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/batik-svggen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/calender/JasperReports/batik-css.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

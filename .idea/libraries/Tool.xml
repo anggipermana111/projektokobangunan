@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Tool">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tool/KGradientPanel.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/Circle_Label.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/KControls.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="ireport jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Tool/report/ireport jar/commons-beanutils-1.8.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/report/ireport jar/groovy-all-2.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/report/ireport jar/commons-logging-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/report/ireport jar/commons-collections-3.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/report/ireport jar/iText-2.1.7.js2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/report/ireport jar/jasperreports-5.6.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Tool/report/ireport jar/commons-digester-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
